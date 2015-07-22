@@ -1,4 +1,4 @@
-# create-pom-xml
+# pom-dependency
 
 ####### Create pom.xml dynamically using python, resolve the dependencies as jars to current folder
 1. This projec may be helpful when you have a list of maven artifacts that you want to use in your java project and want to download the dependencies into a local folder instead of using maven
